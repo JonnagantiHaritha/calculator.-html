@@ -1,0 +1,42 @@
+Calculator Website Project
+
+Project Name: Calculator Website
+
+Description:
+A simple and responsive calculator application developed using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Responsive User Interface
+- Easy-to-use Design
+
+Technologies Used:
+- HTML5
+- CSS3
+- JavaScript
+
+Project Structure:
+Calculator-main/
+│
+├── Css/
+│   ├── cal.css
+│   └── image1.jpg
+│
+├── Js/
+│   └── cal.js
+│
+├── Index.html
+├── README.md
+└── example.txt
+
+Author:
+Haritha Jonnaganti
+
+Version:
+1.0
+
+Date:
+June 2026

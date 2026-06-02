@@ -32,11 +32,3 @@ Calculator-main/
 ├── README.md
 └── example.txt
 
-Author:
-Haritha Jonnaganti
-
-Version:
-1.0
-
-Date:
-June 2026
